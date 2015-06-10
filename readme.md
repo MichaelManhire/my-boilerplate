@@ -1,7 +1,7 @@
 # My Boilerplate #
 
-*Created and authored by [Michael Manhire](http://www.michaelmanhire.com/)*
-*Although it was developed for my own purposes, anyone may use this boilerplate if they so choose*
+*Created and authored by [Michael Manhire](http://www.michaelmanhire.com/).*
+*Although it was developed for my own purposes, anyone may use this boilerplate if they so choose.*
 
 ## HTML ##
 
@@ -11,7 +11,7 @@ Unless you are using an older version of HTML, always include `<!DOCTYPE html>`.
 
 ### Language Attribute ###
 
-You should specify the language of your content by adding the `lang` attribute to `<html>`.
+You should specify the language of your content by using the `lang` attribute on `<html>`.
 
 ### Essential Meta Tags ###
 
@@ -67,7 +67,7 @@ Put script elements at the bottom of the page so that they don't interfere with 
 
 ### Normalize.css ###
 
-A minified version of normalize.css has been included. To save even more space, you may download another normalize.css and cut out whatever elements are not needed in your project.
+A minified version of [normalize.css](http://necolas.github.io/normalize.css/) has been included. To save even more space, you may download another normalize.css and cut out whatever elements are not needed in your project.
 
 ### Global ###
 
